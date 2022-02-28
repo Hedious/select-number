@@ -1,6 +1,6 @@
 # select_number
 
-A new Flutter project.
+This is A My First Flutter Assignment Project.
 
 ## Getting Started
 
